@@ -1,0 +1,32 @@
+<!doctype html>
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css?family=Khula" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet">    
+</head>
+
+<style>
+    h1{font-family: 'Khula', sans-serif;}
+    p{font-family: 'Anonymous Pro', monospace;}
+</style>
+
+<body align="center" bgcolor='#D7B487'>
+<h1>Beauty Bar: Package 2 </h1>
+    <p>
+    Thanks for using Beauty Bar! Given your responses to the questions we've asked, you have been recommended Package 3, Acne Scarring. 
+    <br>
+    Acne scarring is generally the result of inflamed blemishes that occur when the skin's pores become clogged with excess oil, dead skin cells, and bacteria. While everyone experiences acne scarring, those with darker skin tones tend to recover from this scarring at a slower pac. This is because darker skin responds to inflammation by producing more melanin; with more melanin being produced, the inflammed area is activated by free radicals of oxygen and produces spots that are noticeably darker than the surrounding skin. The biggest advice for you as you work to treat this scarring is to wear sunscreen at all times and to build a regimen that also prevents the acne from arising in the first place. 
+    <br>
+    Below is the list of organic products you can use to treat acne scarring. From left to right: Vitamin E Oil, Lemon Juice, Aloe Vera Gel, Baking Soda, and Helichrysum Essential Oil 
+    </p>    
+    
+<a href="https://www.amazon.com/Sundown-Vitamin-Oil-70000-2-5/dp/B00121PZZG/ref=sr_1_5_a_it?ie=UTF8&qid=1494990299&sr=8-5&keywords=vitamin+e+oil"><img src="https://media.swansonvitamins.com/images/items/master/SDW011.png" width="400" height="400" ></a>
+<a href="https://www.amazon.com/Fresh-Organic-Lemons-1-Dozen/dp/B004G2DR5S/ref=pd_lpo_vtph_325_tr_img_3?_encoding=UTF8&psc=1&refRID=BK9D85YZPPW5DAEZM3A4"><img src="http://cdn1.medicalnewstoday.com/content/images/articles/283/283476/lemons.jpg" width="400" height="400" ></a>   
+<a href="http://www.bulkapothecary.com/product/raw-ingredients/other-ingredients-and-chemicals/aloe-vera/?gclid=CjwKEAjwxurIBRDnt7P7rODiq0USJADwjt5D2YgJW5ojS8POMvsJPCvOiNs3jlv_UYqeyjaxpbWxkxoCfrPw_wcB"><img src="http://4.bp.blogspot.com/-FJ2dB_WU468/VhbLpVGsz2I/AAAAAAAARBM/kE1WOmh-spg/s1600/aloe%2B1.jpg" width="400" height="400" ></a>
+<a href="https://www.amazon.com/Arm-Hammer-Baking-Soda-16/dp/B000PYF8VM/ref=sr_1_2_s_f_it?ie=UTF8&qid=1494990681&sr=1-2&ppw=fresh&keywords=baking+soda"><img src="http://www.healthyfoodhouse.com/wp-content/uploads/2014/11/how-to-fight-colds-and-the-flu-with-baking-soda1.jpg" width="400" height="400" ></a>
+<a href="https://www.amazon.com/doTERRA-Helichrysum-Essential-Oil-mL/dp/B004O275XK/ref=sr_1_19_s_it?s=beauty&ie=UTF8&qid=1494990810&sr=1-19&keywords=helichrysum+essential+oil"><img src="https://bestessentialoils.com/wp-content/uploads/2016/12/doTERRA-Helichrysum-Essential-Oil-Uses.png" width="400" height="400"></a>     
+
+
+
+</body>
+</html>
